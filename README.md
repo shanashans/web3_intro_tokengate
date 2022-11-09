@@ -2,7 +2,7 @@
 
 + Run command
     + npm install
-+ Add URL to _src/App.js_ on line 37
++ Add contract address to _src/App.js_ on line 9
 + Run command
     + npm run start
 + Connect wallet, approve signed request
