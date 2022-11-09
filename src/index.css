@@ -1,0 +1,14 @@
+body {
+  margin: 20px;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+
+.nft {
+  width: 50%;
+  border: 1px solid rgb(65, 65, 65);
+}
