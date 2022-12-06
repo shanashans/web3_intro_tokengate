@@ -6,7 +6,7 @@ class App extends Component {
   state = { 
     web3: null,
     accounts: null,
-    contract: '0x4c40a6549891549E237f0aFe2781A98F9d51e386',
+    contract: '0x4c40a6549891549e237f0afe2781a98f9d51e386',
     hasNft: false
   };
 
