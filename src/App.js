@@ -60,7 +60,7 @@ class App extends Component {
               Connect Your Wallet
             </button>
             <p>
-              <img className="nft" src="public/media/nft_fade.jpg"/>
+              <img className="nft" src="media/nft_fade.jpg"/>
             </p>
           </div>
         }
@@ -69,7 +69,7 @@ class App extends Component {
             <h3>Token Gate</h3>
             <h4>You have the NFT!</h4>
             <p>
-              <img className="nft" src="public/media/nft.jpg"/>
+              <img className="nft" src="media/nft.jpg"/>
             </p>
           </div>
         }
@@ -78,7 +78,7 @@ class App extends Component {
             <h3>Token Gate</h3>
             <h4>You don't have the NFT...</h4>
             <p>
-              <img className="nft" src="public/media/nft_no.jpg"/>
+              <img className="nft" src="media/nft_no.jpg"/>
             </p>
           </div>
         }
