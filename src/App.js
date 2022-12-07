@@ -69,7 +69,7 @@ class App extends Component {
             <h3>Token Gate</h3>
             <h4>You have the NFT!</h4>
             <p>
-              <img className="nft" src="media/nft.jpg"/>
+              <img className="nft" src="public/media/nft.jpg"/>
             </p>
           </div>
         }
